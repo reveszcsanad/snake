@@ -1,0 +1,60 @@
+# Default ignored files
+/shelf/
+/.idea/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# IntelliJ IDEA
+.idea/
+
+# SonarLint
+.sonarlint/
+
+# IDE-specific files
+*.iml
+*.ipr
+*.iws
+*.editorconfig
+*.properties
+
+# User-specific files
+.idea/
+*.suo
+*.user
+*.suo
+*.user
+*.suo
+*.user
+
+# Compiled Java bytecode
+*.class
+
+# Compiled SASS/SCSS
+*.css
+
+# Package files
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+
+# Miscellaneous
+*.swp
+*~
+*.tmp
+*.tmp.*
+*.log
+*.db
+*.sqlite
+*.cache
+*.project
+*.tmproj
+*.tmtags
+.idea/
+
+# SonarQube
+sonar-project.properties
