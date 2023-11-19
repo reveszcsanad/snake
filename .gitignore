@@ -7,9 +7,6 @@
 /dataSources/
 /dataSources.local.xml
 
-# IntelliJ IDEA
-.idea/
-
 # SonarLint
 .sonarlint/
 
@@ -22,10 +19,6 @@
 
 # User-specific files
 .idea/
-*.suo
-*.user
-*.suo
-*.user
 *.suo
 *.user
 
@@ -54,7 +47,6 @@
 *.project
 *.tmproj
 *.tmtags
-.idea/
 
 # SonarQube
 sonar-project.properties
